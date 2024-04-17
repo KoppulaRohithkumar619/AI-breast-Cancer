@@ -1,5 +1,5 @@
-- 👋 Hi, We are FFE Batch-2 team-12 
-- 👨🏽‍🤝‍👨🏻👨🏽‍🤝‍👨🏻 @rpranaykumarreddy @varunreddy1024 @nirvanreddy @jayanth9676 @Deepthi2601 @CHOUHAN-MOHIT  @M Pavan Kumar
+
+- 👨🏽‍🤝‍👨🏻👨🏽‍🤝‍👨🏻 @rpranaykumarreddy @varunreddy1024 @nirvanreddy @rohithkumarkoppula
 
 Steps to run the project locally:
 1. Clone the repository
